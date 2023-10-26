@@ -231,14 +231,14 @@ p {
   .contact-item {
   }
   
-  .main-page {
+.main-page {
     max-width: 1440px;
     background: #2e2f42;
     background-image: linear-gradient(
         rgba(46, 47, 66, 0.7),
         rgba(46, 47, 66, 0.7)
-      ),
-      url(../images/Dark-bg-mob.jpg);
+    ),
+    url(../images/people-office-one.jpg);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
