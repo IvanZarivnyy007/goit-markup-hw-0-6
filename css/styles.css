@@ -238,7 +238,7 @@ p {
         rgba(46, 47, 66, 0.7),
         rgba(46, 47, 66, 0.7)
     ),
-    url(../images/people-office-one.jpg);
+    url(../images/Dark-office\ 1-min\ pc.jpg);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -255,7 +255,7 @@ p {
           rgba(46, 47, 66, 0.7),
           rgba(46, 47, 66, 0.7)
         ),
-        url(../images/Dark-bg-mob-2x.jpg);
+        url(../images/Dark-bg\ 3-min\ mob.jpg);
     }
   }
   
@@ -955,7 +955,7 @@ p {
           rgba(46, 47, 66, 0.7),
           rgba(46, 47, 66, 0.7)
         ),
-        url(../images/Dark-bg-tab.jpg);
+        url(../images/Dark-bg\ 4-min\ tab.jpg);
     }
   
     @media screen and (min-device-pixel-ratio: 2),
@@ -966,7 +966,7 @@ p {
             rgba(46, 47, 66, 0.7),
             rgba(46, 47, 66, 0.7)
           ),
-          url(../images/Dark-bg-tab-2x.jpg);
+          url(../images/);
       }
     }
   
@@ -1041,7 +1041,7 @@ p {
           rgba(46, 47, 66, 0.7),
           rgba(46, 47, 66, 0.7)
         ),
-        url(../images/hero-bg.jpg);
+        url(../images/Dark-office\ 1-min\ pc.jpg);
     }
   
     @media screen and (min-device-pixel-ratio: 2),
@@ -1052,7 +1052,7 @@ p {
             rgba(46, 47, 66, 0.7),
             rgba(46, 47, 66, 0.7)
           ),
-          url(../images/hero-bg-2x.jpg);
+          url(../images/Dark-office\ 1-min\ pc.jpg);
       }
     }
   
